@@ -102,7 +102,7 @@ const profileData = {
   certifications: [
     {
       desc: `<strong>AWS Certified Solutions Architect - Associate</strong>.
-      (<a target='_blank' rel='noreferrer' href='https://www.credly.com/badges/d58cbe69-3392-4feb-a767-9c6380df237f/public_url'>https://goo.gl/RGRzVn</a>)`,
+      (<a target='_blank' rel='noreferrer' href='https://www.credly.com/badges/d58cbe69-3392-4feb-a767-9c6380df237f/public_url'>link</a>)`,
       date: "Aug 2024",
     },
   ],
