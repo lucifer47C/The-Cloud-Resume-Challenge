@@ -49,9 +49,9 @@ resource "aws_iam_policy" "iam_policy_for_resume_project" {
           "Effect" : "Allow",
           "Action" : [
             "dynamodb:UpdateItem",
-			      "dynamodb:GetItem"
+			"dynamodb:GetItem"
           ],
-          "Resource" : "arn:aws:dynamodb:*:*:table/resume-challenge"
+          "Resource" : "arn:aws:dynamodb:*:*:table/steve-cloud-resume-challenge-test"
         },
       ]
   })
@@ -84,23 +84,6 @@ resource "aws_lambda_function_url" "url1" {
 }
 
 /*
-terraform {
-  required_providers {
-    aws = {
-      source  = "hashicorp/aws"
-      version = "~> 4.16"
-    }
-  }
-
-  required_version = ">= 1.2.0"
-}
-
-provider "aws" {
-  profile                  = "aws-resume" # rename your aws cli profile
-  region                   = "us-east-1"
-}
-
-
 # DynamoDB Table
 resource "aws_dynamodb_table" "visitor_count_ddb" {
   name         = "VisitorsTable"
