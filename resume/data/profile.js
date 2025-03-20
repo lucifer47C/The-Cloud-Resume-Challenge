@@ -78,17 +78,17 @@ const profileData = {
       title: "TrackNClassify",
       duration: "Sep - Dec 2024",
       link: "https://github.com/lucifer47C/TrackNClassify-Major",
-      desc: ` • Developed a multilayered authentication system, reducing unauthorized access attempts by 90%, integrating QR code scanning, and RFID for secure access management.<br>
-              • Responsible for integrating with cloud services, ensuring 99.9% uptime and with IOT components for seamless access management across multiple locations.<br>
-              • Tools Used: MERN stack (MongoDB, Express.js, React, and Node.js).`,
+      desc: `  Developed a multilayered authentication system, reducing unauthorized access attempts by 90%, integrating QR code scanning, and RFID for secure access management.<br>
+               Responsible for integrating with cloud services, ensuring 99.9% uptime and with IOT components for seamless access management across multiple locations.<br>
+               Tools Used: MERN stack (MongoDB, Express.js, React, and Node.js).`,
     },
     {
       title: "FitZee",
       duration: "Feb - Jul 2024",
       link: "https://github.com/lucifer47C/FitZee-Minor",
-      desc: ` • An android application for Body Mass Index (BMI) calculation, and to estimate the calorie count of their meals through image recognition.<br>
-              • Responsible for 100% user interface creation using Java and XML.<br>
-              • Tools Used: Android Studio, Java, XML, Firebase.`,
+      desc: `  An android application for Body Mass Index (BMI) calculation, and to estimate the calorie count of their meals through image recognition.<br>
+               Responsible for 100% user interface creation using Java and XML.<br>
+               Tools Used: Android Studio, Java, XML, Firebase.`,
     },
   ],
   education: [
