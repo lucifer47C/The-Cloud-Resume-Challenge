@@ -7,7 +7,7 @@ async function get_visitors() {
             method: 'GET',
         });
         let data = await response.json()
-        document.getElementById("visitors").innerHTML = data['count'];
+        document.getElementById("visitors").innerHTML = data['views'];
         console.log(data);
         return data;
     } catch (err) {
