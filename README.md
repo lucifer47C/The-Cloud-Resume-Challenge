@@ -4,9 +4,6 @@ This is my Cloud Resume Challenge built on AWS. It's a static website hosted on 
 
 ![architecture](./assets/images/architecture.png)
 
-## Demo
-
-[View it live here](https://d2vnkf7jfcppw1.cloudfront.net/)
 
 ## Structure
 
