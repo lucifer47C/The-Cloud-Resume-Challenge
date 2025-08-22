@@ -33,7 +33,7 @@ const profileData = {
     },
     {
       title: "Others",
-      value: "Git/Github, Jenkins, AWS, Azure, Docker",
+      value: "Git/Github, Jenkins, AWS, Azure, Docker, Terraform, Kubernetes",
     },
   ],
   experiences: [
