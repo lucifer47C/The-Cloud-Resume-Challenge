@@ -22,3 +22,7 @@ This is my Cloud Resume Challenge built on AWS. It's a static website hosted on 
 - Lambda function
 - API Gateway
 - Dynamo DB
+  
+## Documentation
+I’ve written a detailed blog post about the project and my learnings:  
+[Read the blog here](https://medium.com/@steveyadav.2002newdelhi/how-i-built-my-cloud-resume-challenge-on-aws-with-terraform-ci-cd-and-a-serverless-visitor-f64cf7a5414d)
